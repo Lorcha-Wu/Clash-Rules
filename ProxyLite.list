@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,api.ipify.org
 DOMAIN-SUFFIX,jellyfin.org
 DOMAIN-SUFFIX,biteb.one
 DOMAIN-SUFFIX,nicecloud.co
+DOMAIN-SUFFIX,veeam.com
 DOMAIN-KEYWORD,beibeicloud
 DOMAIN-KEYWORD,mojie
 IP-CIDR,8.8.8.8/32,no-resolve
